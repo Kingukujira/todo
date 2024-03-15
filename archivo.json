@@ -1,0 +1,11 @@
+{
+    "Nombre" : "Juan",
+    "Apellido" : "Perez",
+    "ColorFav": "#FF0000",
+    "atributos" : [
+        "Honesto",
+        "Trabajador",
+        "Responsable",
+        "Jugador DE lol"
+    ]
+}
